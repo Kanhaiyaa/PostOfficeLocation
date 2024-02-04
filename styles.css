@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .center-box {
+    text-align: center;
+  }
+  
+  #map {
+    width: 360px;
+    height: 270px;
+    margin-bottom: 20px;
+  }
+  
+  #infoContainer {
+    margin-top: 20px;
+  }
+  
